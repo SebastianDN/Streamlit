@@ -3,3 +3,7 @@ pandas
 seaborn
 matplotlib
 scikit-learn
+math
+numpy
+scipy
+
